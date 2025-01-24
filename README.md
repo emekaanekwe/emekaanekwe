@@ -10,11 +10,11 @@
 ### Primordial Soup Sim in Python
 ### Modelling Discrete Optimization Problems using Monash's Minizinc software
 
-## ⚡ Fun fact 
-I'm a huge sci-fi nerd and I like to practice MMA!
+### ⚡ Fun fact 
+#### I'm a huge sci-fi nerd and I like to practice MMA!
 
 ### Pronouns: 
-He/Him
+#### He/Him
 
 
 <!--
