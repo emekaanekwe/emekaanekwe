@@ -13,10 +13,6 @@
 ### ⚡ Fun fact 
 #### I'm a huge sci-fi nerd and I like to practice MMA!
 
-### Pronouns: 
-#### He/Him
-
-
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
