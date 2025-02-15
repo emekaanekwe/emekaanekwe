@@ -20,6 +20,8 @@
 ### Primordial Soup Sim in Python
 --->
 
+---
+
 ### ⚡ Fun fact 
 #### I'm a huge sci-fi nerd and I like to practice MMA!
 
