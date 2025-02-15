@@ -10,7 +10,7 @@
 ### AI and Simulation from the Tang et al. paper "GenSim: A General Social Simulation Platform with Large Language Model based Agents" (2024)
 --->
 
----
+-----
 ---
 
 ## 💻  What I’m currently working on
