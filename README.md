@@ -4,9 +4,7 @@
 
 ## 🌱 What I’m currently learning & Reading
 ### Artificial Intelligence: A Modern Approach (Russell 2020)
-### MULTIAGENT SYSTEMS
-Algorithmic, Game-Theoretic,
-and Logical Foundations (Shoham 2009)
+### Multiagent Systems: Algorithmic, Game-Theoretic,and Logical Foundations (Shoham 2009)
 <!--
 ### Theory of Computation, beginning with Gödel's famous paper "On Formally Undecidable Propositions of Principia Mathematica and Related Systems." (1931)
 ### AI and Simulation from the Tang et al. paper "GenSim: A General Social Simulation Platform with Large Language Model based Agents" (2024)
