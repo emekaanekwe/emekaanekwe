@@ -1,6 +1,6 @@
 # Hello and Welcome! 😎
 
-## NOTE: If you want a larger picture of my github commmit history and journey as a self-taught programmer, the link to my original Github profile is below. I'm still working on merging it with this one <br /><br />https://github.com/EmekaEnshinyan
+### NOTE: If you want a larger picture of my github commmit history and journey as a self-taught programmer, the link to my original Github profile is below. I'm still working on merging it with this one <br /><br />https://github.com/EmekaEnshinyan
 
 ## 🌱 What I’m currently learning & Reading
 ### Artificial Intelligence: A Modern Approach (Russell 2020)
