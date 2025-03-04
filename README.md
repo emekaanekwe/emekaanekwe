@@ -13,6 +13,7 @@
 ## 💻  What I’m currently working on
 ### Modelling Discrete Optimization Problems using Monash University's Minizinc software
 ### Building the Most Common ML algorithms & models from Scratch
+### Primordial Soup Sim in Python
 <!--
 ### Primordial Soup Sim in Python
 --->
