@@ -5,20 +5,22 @@
 ## 🌱 What I’m currently learning & Reading
 ### Artificial Intelligence: A Modern Approach (Russell 2020)
 ### Multiagent Systems: Algorithmic, Game-Theoretic,and Logical Foundations (Shoham 2009)
-### Generative Social Science (Eptstein 2008) 
-### Agent_Zero: Towards Neorcognitive Foundations for Generative Social Science (Epstein 2013)
-
+### Reinforcement LearningL An Introduction (Sutton 2018)
 <!--
 ### Theory of Computation, beginning with Gödel's famous paper "On Formally Undecidable Propositions of Principia Mathematica and Related Systems." (1931)
 ### AI and Simulation from the Tang et al. paper "GenSim: A General Social Simulation Platform with Large Language Model based Agents" (2024)
+
+### Generative Social Science (Eptstein 2008) 
+### Agent_Zero: Towards Neurocognitive Foundations for Generative Social Science (Epstein 2013)
 --->
 ---
 ## 💻  What I’m currently working on
 ### Modelling Discrete Optimization Problems using Monash University's Minizinc software
 ### Building the Most Common ML algorithms & models from Scratch
-### Epstein's Sugarscape program
+### Creating a Markovian Multi Agent System in Python
 <!--
 ### Primordial Soup Sim in Python
+### Epstein's Sugarscape program
 --->
 ---
 ### ⚡ Fun fact 
