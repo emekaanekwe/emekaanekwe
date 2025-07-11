@@ -16,8 +16,8 @@
 --->
 ---
 ## 💻  What I’m currently working on
-### Building the Most Common ML algorithms & models from Scratch
-###  Fine-Tuning my Tabular Q-Learning Project
+### Building the Most Common ML Algorithms & Models from scratch
+###  Fine-tuning my Tabular Q-Learning project
 <!--
 ### Primordial Soup Sim in Python
 ### Epstein's Sugarscape program
