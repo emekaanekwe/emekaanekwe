@@ -24,8 +24,8 @@
 --->
 ---
 ## 💻  What I’m currently working on
-### Studying for exams!
-### Primordial Soup Simulation in Python
+### Networking
+### Portfolio Project
 
 <!--
 ### Primordial Soup Sim in Python
