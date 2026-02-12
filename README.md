@@ -1,6 +1,6 @@
 # Hello and Welcome! 😎
 
-### NOTE: If you want a larger picture of my github commmit history and journey as a self-taught programmer, the link to my original Github profile is below. <br /><br />https://github.com/EmekaEnshinyan
+### NOTE: If you want a larger picture of my github commmit history and journey as a self-taught programmer, the link to my original Github profile is below. <br /><br />https://github.com/EmekaEnshinyan (still working on combinging the two)
 
 ## 🌱 What I’m currently learning & Reading
 ### "Inference of Population Structure Using Multilocus Genotype Data", Pritchard (2000)
