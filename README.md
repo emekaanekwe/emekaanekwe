@@ -26,6 +26,7 @@
 ## 💻  What I’m currently working on
 ### Networking
 ### Portfolio Project
+### Assisting in Developing Multi Agent Tool for Company SOP Creation https://github.com/LexiconSpark/data-analysis-copilot
 
 <!--
 ### Primordial Soup Sim in Python
