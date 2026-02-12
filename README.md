@@ -5,9 +5,11 @@
 ## 🌱 What I’m currently learning & Reading
 ### "Inference of Population Structure Using Multilocus Genotype Data", Pritchard (2000)
 ### "Deep Reinforcement Learning in a Handful of Trials Using Probabilistic Dynamic Models" Chua et al. (2018)
-### Deep Rinforcement Learning by Hugging Face
+### "AI By Hand" Workbooks by Prof. Tom Yeh
+### "Mathematics for Machine Learning", Deisenroth et al. (2020)
 
 <!--
+### Deep Rinforcement Learning by Hugging Face
 ### Patern Recognition and Machine Learning (Bishop 2006)
 ### A Friendly Introduction to Mathematical Logic (Leary 2015)
 ### Artificial Intelligence: A Modern Approach (Russell 2020)
