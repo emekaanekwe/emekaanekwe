@@ -29,9 +29,7 @@
 --->
 ---
 ## 💻  What I’m currently working on
-### Networking
-### Portfolio Project
-### Assisting in Developing Multi Agent Tool for Company SOP Creation https://github.com/LexiconSpark/data-analysis-copilot
+### RL model design of Jarred Diamond's theory of ecological evolution of human societies (popularized in his book "Guns, Germs, and Steel") 
 
 <!--
 ### Primordial Soup Sim in Python
