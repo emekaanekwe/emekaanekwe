@@ -3,12 +3,15 @@
 ### NOTE: If you want a larger picture of my github commmit history and journey as a self-taught programmer, the link to my original Github profile is below. <br /><br />https://github.com/EmekaEnshinyan (still working on combinging the two)
 
 ## 🌱 What I’m currently learning & Reading
-### "Inference of Population Structure Using Multilocus Genotype Data", Pritchard (2000)
-### "Deep Reinforcement Learning in a Handful of Trials Using Probabilistic Dynamic Models" Chua et al. (2018)
-### "AI By Hand" Workbooks by Prof. Tom Yeh
-### "Mathematics for Machine Learning", Deisenroth et al. (2020)
+### Tiny Python Projects (Clark, 2020)
+### RL model design of Jarred Diamond's theory of ecological evolution of human societies (popularized in his book "Guns, Germs, and Steel") 
+
 
 <!--
+### "AI By Hand" Workbooks by Prof. Tom Yeh
+### "Mathematics for Machine Learning", Deisenroth et al. (2020)
+### "Deep Reinforcement Learning in a Handful of Trials Using Probabilistic Dynamic Models" Chua et al. (2018)
+### "Inference of Population Structure Using Multilocus Genotype Data", Pritchard (2000)
 ### Deep Rinforcement Learning by Hugging Face
 ### Patern Recognition and Machine Learning (Bishop 2006)
 ### A Friendly Introduction to Mathematical Logic (Leary 2015)
